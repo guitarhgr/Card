@@ -1,3 +1,1 @@
-{
-    "test": 1
-}
+{"cfg/test.json":{"res":"cfg/test.json","type":"json"},"res/3d.atlas":{"res":"res/3d.atlas","type":"2d"},"res/comp.atlas":{"res":"res/comp.atlas","type":"2d"},"res/ui/app_a/load.atlas":{"res":"res/ui/app_a/load.atlas","type":"2d"},"res/ui/app_a/sign.atlas":{"res":"res/ui/app_a/sign.atlas","type":"2d"},"res/ui/app/widget.atlas":{"res":"res/ui/app/widget.atlas","type":"2d"},"res/ui/app_b/card.atlas":{"res":"res/ui/app_b/card.atlas","type":"2d"},"res/ui/app_b/frame.atlas":{"res":"res/ui/app_b/frame.atlas","type":"2d"}}
